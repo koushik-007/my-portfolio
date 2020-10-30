@@ -1,0 +1,10 @@
+.headerBg{
+    background-image: url(../../../Images/bg1.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: repeat-y;
+    background-position: center center;
+}
+.top {
+    background-attachment: fixed;
+}
